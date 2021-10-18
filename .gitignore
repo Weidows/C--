@@ -1,3 +1,4 @@
 .vscode
 **/others
 **/*.exe
+build
