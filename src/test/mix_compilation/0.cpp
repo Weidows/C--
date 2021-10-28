@@ -1,15 +1,14 @@
 /*
  * @?: *********************************************************************
  * @Author: Weidows
- * @Date: 2021-10-18 19:54:50
+ * @Date: 2021-10-28 10:31:40
  * @LastEditors: Weidows
- * @LastEditTime: 2021-10-18 19:57:55
- * @FilePath: \C++\main.cpp
+ * @LastEditTime: 2021-10-28 10:44:44
+ * @FilePath: \C++\src\test\2.cpp
  * @Description:
  * @!: *********************************************************************
  */
-#include <iostream>
 
-int main(int, char**) {
-    std::cout << "Hello, world!\n";
+int a(){
+  return 0;
 }

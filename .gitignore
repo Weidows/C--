@@ -1,4 +1,4 @@
-.vscode
+.xmake
+build
 **/others
 **/*.exe
-build

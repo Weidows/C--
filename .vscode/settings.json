@@ -1,0 +1,18 @@
+{
+  "C_Cpp.errorSquiggles": "Enabled",
+  "files.associations": {
+    "stdlib.h": "c",
+    "glut.h": "c",
+    "windows.h": "c",
+    "stdio.h": "c",
+    "math.h": "c",
+    "glaux.h": "c",
+    "string.h": "c",
+    "corecrt_stdio_config.h": "c"
+  },
+  "code-runner.executorMap": {
+    "c": "chcp 65001 && gcc *.c -I . -o $workspaceRoot\\build\\$fileNameWithoutExt && $workspaceRoot\\build\\$fileNameWithoutExt",
+    "cpp": "chcp 65001 && g++ *.cpp -I . -o $workspaceRoot\\build\\$fileNameWithoutExt && $workspaceRoot\\build\\$fileNameWithoutExt",
+    "pde": "processing-java --force --sketch=$dir --output=$dir/out --run"
+  }
+}

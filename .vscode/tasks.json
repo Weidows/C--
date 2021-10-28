@@ -1,0 +1,56 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      //Processing配置从这里开始添加
+      "label": "Run Sketch",
+      "type": "shell",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "command": "${config:processing.path}",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "dedicated"
+      },
+      "args": [
+        "--force",
+        "--sketch=${fileDirname}",
+        "--output=${fileDirname}\\out",
+        "--run"
+      ],
+      "windows": {
+        "args": [
+          "--force",
+          "--sketch=${fileDirname}",
+          "--output=${fileDirname}\\out",
+          "--run"
+        ]
+      }
+    }, //到这里结束
+    {
+      "type": "cppbuild",
+      "label": "C/C++: g++.exe 生成活动文件",
+      "command": "g++",
+      "args": [
+        "-g",
+        "*.cpp",
+        "-I",
+        ".",
+        "-o",
+        "${workspaceRoot}\\build\\${fileBasenameNoExtension}.exe"
+      ],
+      "options": {
+        "cwd": "${fileDirname}"
+      },
+      "problemMatcher": ["$gcc"],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}

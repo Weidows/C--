@@ -1,14 +1,14 @@
 /*
  * @?: *********************************************************************
  * @Author: Weidows
- * @Date: 2021-09-27 12:15:06
+ * @Date: 2021-10-27 22:34:03
  * @LastEditors: Weidows
- * @LastEditTime: 2021-09-27 22:13:01
- * @FilePath: \C++\Study\OpenGL\1.c
+ * @LastEditTime: 2021-10-27 22:37:28
+ * @FilePath: \C++\src\OpenGL\1.transform_triangular\1.cpp
  * @Description:
  * @!: *********************************************************************
  */
-#include <GL/glut.h>
+#include <gl/glut.h>
 #include <stdlib.h>
 void Initial(void)
 {
