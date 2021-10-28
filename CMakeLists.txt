@@ -4,8 +4,7 @@ project(C++ VERSION 0.1.0)
 include(CTest)
 enable_testing()
 
-add_executable(C++ main.cpp)
-# add_executable(swap_02 ${TEST_MATH})
+# add_executable(C++ main.cpp)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
