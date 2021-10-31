@@ -8,7 +8,10 @@
     "math.h": "c",
     "glaux.h": "c",
     "string.h": "c",
-    "corecrt_stdio_config.h": "c"
+    "corecrt_stdio_config.h": "c",
+    "glu.h": "c",
+    "gl.h": "c",
+    "*.tcc": "cpp"
   },
   "code-runner.executorMap": {
     "c": "chcp 65001 && gcc *.c -I . -o $workspaceRoot\\build\\$fileNameWithoutExt && $workspaceRoot\\build\\$fileNameWithoutExt",
