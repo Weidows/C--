@@ -1,0 +1,11 @@
+﻿  ConsoleApplication7.cpp
+c:\users\dell\source\repos\consoleapplication7\consoleapplication7\consoleapplication7.cpp(17): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+c:\users\dell\source\repos\consoleapplication7\consoleapplication7\consoleapplication7.cpp(186): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\dell\source\repos\consoleapplication7\consoleapplication7\consoleapplication7.cpp(196): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\dell\source\repos\consoleapplication7\consoleapplication7\consoleapplication7.cpp(202): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\dell\source\repos\consoleapplication7\consoleapplication7\consoleapplication7.cpp(211): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\dell\source\repos\consoleapplication7\consoleapplication7\consoleapplication7.cpp(213): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\dell\source\repos\consoleapplication7\consoleapplication7\consoleapplication7.cpp(220): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\dell\source\repos\consoleapplication7\consoleapplication7\consoleapplication7.cpp(222): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\dell\source\repos\consoleapplication7\consoleapplication7\consoleapplication7.cpp(231): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  ConsoleApplication7.vcxproj -> C:\Users\DELL\source\repos\ConsoleApplication7\Debug\ConsoleApplication7.exe

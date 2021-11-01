@@ -11,7 +11,8 @@
     "corecrt_stdio_config.h": "c",
     "glu.h": "c",
     "gl.h": "c",
-    "*.tcc": "cpp"
+    "*.tcc": "cpp",
+    "freeglut_std.h": "c"
   },
   "code-runner.executorMap": {
     "c": "chcp 65001 && gcc *.c -I . -o $workspaceRoot\\build\\$fileNameWithoutExt && $workspaceRoot\\build\\$fileNameWithoutExt",
