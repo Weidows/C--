@@ -1,36 +1,36 @@
 [
 {
   "directory": "D:\\Game\\Github\\C++",
-  "arguments": ["ccache.exe", "gcc", "-c", "-m64", "-Iinclude", "-DFREEGLUT_LIB_PRAGMAS=0", "-I", "C:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\f\\freeglut\\3.2.1\\d94034aeeec744bfb8b794a8d1fb78d6\\include", "-o", "build\\.objs\\opengl-2-2\\windows\\x64\\debug\\src\\OpenGL\\2.变换三角形\\2.cpp.obj", "src\\OpenGL\\2.变换三角形\\2.cpp"],
+  "arguments": ["D:\\Game\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe", "/c", "/EHsc", "/nologo", "/Iinclude", "/DFREEGLUT_LIB_PRAGMAS=0", "/DGLEW_NO_GLU", "/DGLEW_STATIC", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\f\\freeglut\\3.2.1\\d94034aeeec744bfb8b794a8d1fb78d6\\include", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\o\\opencv\\4.5.3\\75ec219c46d04bed8008ee97aa566488\\include", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\g\\glew\\2.2.0\\618c7b92c819453eaa1a00a41d1d32e3\\include", "/Fobuild\\.objs\\MazeGame\\windows\\x64\\debug\\src\\OpenGL\\MazeGame\\main.cpp.obj", "src\\OpenGL\\MazeGame\\main.cpp"],
+  "file": "src\\OpenGL\\MazeGame\\main.cpp"
+},
+{
+  "directory": "D:\\Game\\Github\\C++",
+  "arguments": ["D:\\Game\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe", "/c", "/EHsc", "/nologo", "/Iinclude", "/DFREEGLUT_LIB_PRAGMAS=0", "/DGLEW_NO_GLU", "/DGLEW_STATIC", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\f\\freeglut\\3.2.1\\d94034aeeec744bfb8b794a8d1fb78d6\\include", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\o\\opencv\\4.5.3\\75ec219c46d04bed8008ee97aa566488\\include", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\g\\glew\\2.2.0\\618c7b92c819453eaa1a00a41d1d32e3\\include", "/Fobuild\\.objs\\opengl-3-2\\windows\\x64\\debug\\src\\OpenGL\\3.图形建模\\绘制二维几何体.cpp.obj", "src\\OpenGL\\3.图形建模\\绘制二维几何体.cpp"],
+  "file": "src\\OpenGL\\3.图形建模\\绘制二维几何体.cpp"
+},
+{
+  "directory": "D:\\Game\\Github\\C++",
+  "arguments": ["D:\\Game\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe", "/c", "/EHsc", "/nologo", "/Iinclude", "/DFREEGLUT_LIB_PRAGMAS=0", "/DGLEW_NO_GLU", "/DGLEW_STATIC", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\f\\freeglut\\3.2.1\\d94034aeeec744bfb8b794a8d1fb78d6\\include", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\o\\opencv\\4.5.3\\75ec219c46d04bed8008ee97aa566488\\include", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\g\\glew\\2.2.0\\618c7b92c819453eaa1a00a41d1d32e3\\include", "/Fobuild\\.objs\\opengl-2-2\\windows\\x64\\debug\\src\\OpenGL\\2.变换三角形\\2.cpp.obj", "src\\OpenGL\\2.变换三角形\\2.cpp"],
   "file": "src\\OpenGL\\2.变换三角形\\2.cpp"
 },
 {
   "directory": "D:\\Game\\Github\\C++",
-  "arguments": ["ccache.exe", "clang", "-c", "-Qunused-arguments", "-m64", "-Iinclude", "-DFREEGLUT_LIB_PRAGMAS=0", "-I", "C:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\f\\freeglut\\3.2.1\\d94034aeeec744bfb8b794a8d1fb78d6\\include", "-o", "build\\.objs\\opengl-3-1\\windows\\x64\\debug\\src\\OpenGL\\3.图形建模\\绘制奥运五环.cpp.obj", "src\\OpenGL\\3.图形建模\\绘制奥运五环.cpp"],
-  "file": "src\\OpenGL\\3.图形建模\\绘制奥运五环.cpp"
-},
-{
-  "directory": "D:\\Game\\Github\\C++",
-  "arguments": ["ccache.exe", "gcc", "-c", "-m64", "-Iinclude", "-DFREEGLUT_LIB_PRAGMAS=0", "-I", "C:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\f\\freeglut\\3.2.1\\d94034aeeec744bfb8b794a8d1fb78d6\\include", "-o", "build\\.objs\\test\\windows\\x64\\debug\\src\\test\\0.cpp.obj", "src\\test\\0.cpp"],
-  "file": "src\\test\\0.cpp"
-},
-{
-  "directory": "D:\\Game\\Github\\C++",
-  "arguments": ["ccache.exe", "gcc", "-c", "-m64", "-Iinclude", "-DFREEGLUT_LIB_PRAGMAS=0", "-I", "C:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\f\\freeglut\\3.2.1\\d94034aeeec744bfb8b794a8d1fb78d6\\include", "-o", "build\\.objs\\opengl-1-cube\\windows\\x64\\debug\\src\\OpenGL\\1.概述\\cube.cpp.obj", "src\\OpenGL\\1.概述\\cube.cpp"],
-  "file": "src\\OpenGL\\1.概述\\cube.cpp"
-},
-{
-  "directory": "D:\\Game\\Github\\C++",
-  "arguments": ["ccache.exe", "gcc", "-c", "-m64", "-Iinclude", "-DFREEGLUT_LIB_PRAGMAS=0", "-I", "C:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\f\\freeglut\\3.2.1\\d94034aeeec744bfb8b794a8d1fb78d6\\include", "-o", "build\\.objs\\opengl-2-1\\windows\\x64\\debug\\src\\OpenGL\\2.变换三角形\\1.cpp.obj", "src\\OpenGL\\2.变换三角形\\1.cpp"],
+  "arguments": ["D:\\Game\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe", "/c", "/EHsc", "/nologo", "/Iinclude", "/DFREEGLUT_LIB_PRAGMAS=0", "/DGLEW_NO_GLU", "/DGLEW_STATIC", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\f\\freeglut\\3.2.1\\d94034aeeec744bfb8b794a8d1fb78d6\\include", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\o\\opencv\\4.5.3\\75ec219c46d04bed8008ee97aa566488\\include", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\g\\glew\\2.2.0\\618c7b92c819453eaa1a00a41d1d32e3\\include", "/Fobuild\\.objs\\opengl-2-1\\windows\\x64\\debug\\src\\OpenGL\\2.变换三角形\\1.cpp.obj", "src\\OpenGL\\2.变换三角形\\1.cpp"],
   "file": "src\\OpenGL\\2.变换三角形\\1.cpp"
 },
 {
   "directory": "D:\\Game\\Github\\C++",
-  "arguments": ["ccache.exe", "clang", "-c", "-Qunused-arguments", "-m64", "-Iinclude", "-DFREEGLUT_LIB_PRAGMAS=0", "-DGLEW_NO_GLU", "-DGLEW_STATIC", "-I", "C:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\f\\freeglut\\3.2.1\\d94034aeeec744bfb8b794a8d1fb78d6\\include", "-I", "C:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\g\\glew\\2.2.0\\618c7b92c819453eaa1a00a41d1d32e3\\include", "-o", "build\\.objs\\ConsoleApplication7\\windows\\x64\\debug\\src\\ConsoleApplication7\\ConsoleApplication7.cpp.obj", "src\\ConsoleApplication7\\ConsoleApplication7.cpp"],
-  "file": "src\\ConsoleApplication7\\ConsoleApplication7.cpp"
+  "arguments": ["D:\\Game\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe", "/c", "/EHsc", "/nologo", "/Iinclude", "/DFREEGLUT_LIB_PRAGMAS=0", "/DGLEW_NO_GLU", "/DGLEW_STATIC", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\f\\freeglut\\3.2.1\\d94034aeeec744bfb8b794a8d1fb78d6\\include", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\o\\opencv\\4.5.3\\75ec219c46d04bed8008ee97aa566488\\include", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\g\\glew\\2.2.0\\618c7b92c819453eaa1a00a41d1d32e3\\include", "/Fobuild\\.objs\\opengl-3-1\\windows\\x64\\debug\\src\\OpenGL\\3.图形建模\\绘制奥运五环.cpp.obj", "src\\OpenGL\\3.图形建模\\绘制奥运五环.cpp"],
+  "file": "src\\OpenGL\\3.图形建模\\绘制奥运五环.cpp"
 },
 {
   "directory": "D:\\Game\\Github\\C++",
-  "arguments": ["ccache.exe", "clang", "-c", "-Qunused-arguments", "-m64", "-Iinclude", "-DFREEGLUT_LIB_PRAGMAS=0", "-I", "C:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\f\\freeglut\\3.2.1\\d94034aeeec744bfb8b794a8d1fb78d6\\include", "-o", "build\\.objs\\opengl-3-2\\windows\\x64\\debug\\src\\OpenGL\\3.图形建模\\绘制二维几何体.cpp.obj", "src\\OpenGL\\3.图形建模\\绘制二维几何体.cpp"],
-  "file": "src\\OpenGL\\3.图形建模\\绘制二维几何体.cpp"
+  "arguments": ["D:\\Game\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe", "/c", "/EHsc", "/nologo", "/Iinclude", "/DFREEGLUT_LIB_PRAGMAS=0", "/DGLEW_NO_GLU", "/DGLEW_STATIC", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\f\\freeglut\\3.2.1\\d94034aeeec744bfb8b794a8d1fb78d6\\include", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\o\\opencv\\4.5.3\\75ec219c46d04bed8008ee97aa566488\\include", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\g\\glew\\2.2.0\\618c7b92c819453eaa1a00a41d1d32e3\\include", "/Fobuild\\.objs\\test\\windows\\x64\\debug\\src\\test\\0.cpp.obj", "src\\test\\0.cpp"],
+  "file": "src\\test\\0.cpp"
+},
+{
+  "directory": "D:\\Game\\Github\\C++",
+  "arguments": ["D:\\Game\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe", "/c", "/EHsc", "/nologo", "/Iinclude", "/DFREEGLUT_LIB_PRAGMAS=0", "/DGLEW_NO_GLU", "/DGLEW_STATIC", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\f\\freeglut\\3.2.1\\d94034aeeec744bfb8b794a8d1fb78d6\\include", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\o\\opencv\\4.5.3\\75ec219c46d04bed8008ee97aa566488\\include", "/IC:\\Users\\29845\\AppData\\Local\\.xmake\\packages\\g\\glew\\2.2.0\\618c7b92c819453eaa1a00a41d1d32e3\\include", "/Fobuild\\.objs\\opengl-1-cube\\windows\\x64\\debug\\src\\OpenGL\\1.概述\\cube.cpp.obj", "src\\OpenGL\\1.概述\\cube.cpp"],
+  "file": "src\\OpenGL\\1.概述\\cube.cpp"
 }]

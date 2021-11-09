@@ -12,7 +12,9 @@
     "glu.h": "c",
     "gl.h": "c",
     "*.tcc": "cpp",
-    "freeglut_std.h": "c"
+    "freeglut_std.h": "c",
+    "stddef.h": "c",
+    "random": "cpp"
   },
   "code-runner.executorMap": {
     "c": "chcp 65001 && gcc *.c -I . -o $workspaceRoot\\build\\$fileNameWithoutExt && $workspaceRoot\\build\\$fileNameWithoutExt",
