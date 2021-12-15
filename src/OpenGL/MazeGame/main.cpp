@@ -230,12 +230,12 @@ void init() {
 
 	// 初始化贴图
 	// 载入墙面贴图图片
-  wall.img = imread("D:/Game/Github/C++/src/OpenGL/MazeGame/texture.bmp");
+  wall.img = imread("D:/Repo/Weidows/C++/src/OpenGL/MazeGame/images/texture.bmp");
   // 设置长宽
 	wall.width = wall.img.cols;
 	wall.height = wall.img.rows;
 	// 载入通关图片
-  complete.img = imread("D:/Game/Github/C++/src/OpenGL/MazeGame/complete.jpg");
+  complete.img = imread("D:/Repo/Weidows/C++/src/OpenGL/MazeGame/images/complete.jpg");
   complete.width = complete.img.cols;
 	complete.height = complete.img.rows;
 

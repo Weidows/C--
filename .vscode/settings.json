@@ -14,7 +14,18 @@
     "*.tcc": "cpp",
     "freeglut_std.h": "c",
     "stddef.h": "c",
-    "random": "cpp"
+    "random": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "stdafx.h": "c",
+    "cmath": "c",
+    "array": "cpp",
+    "bitset": "cpp",
+    "string_view": "cpp",
+    "initializer_list": "cpp",
+    "utility": "cpp",
+    "iostream": "cpp"
   },
   "code-runner.executorMap": {
     "c": "chcp 65001 && gcc *.c -I . -o $workspaceRoot\\build\\$fileNameWithoutExt && $workspaceRoot\\build\\$fileNameWithoutExt",
